@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealbrallis&label=Profile%20views&color=0e75b6&style=flat" alt="therealbrallis" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Live Chat app**
 
 - 🌱 I’m currently learning **React Native**
 
